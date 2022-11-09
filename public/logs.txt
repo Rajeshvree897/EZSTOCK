@@ -1,0 +1,3 @@
+EncompassCustomer   Truck    basePN    OnHand    OnPo    Average Cost
+
+EncompassCustomer   Truck    basePN    OnHand    OnPo    Average Cost

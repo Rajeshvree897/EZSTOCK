@@ -1,0 +1,3 @@
+customerNumber,truckName,binName,itemCode,itemName,quantity,basePN,brand_name,description,item_price,Autoreplanishment,fix_quantity,itemImage
+7461,sample1,B,11861179,TCA38151706 Set Assembly Compressor,16,11861179,LG,hnfbfghghghg266,266,Less Than,10,https://i.stack.imgur.com/koFpQ.png
+7461,sample2,A,11861179,TCA38151706 Set Assembly Compressor,15,11861179,LG,hnfbfghghghg266,266,Less Than,10,https://i.stack.imgur.com/koFpQ.png
